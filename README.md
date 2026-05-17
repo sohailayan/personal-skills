@@ -54,4 +54,4 @@ Gemini provides customized experiences through "Gems" (available to Advanced use
 Feel free to clone this repository and add your own skills as well! If submitting a Pull Request, please follow the native `.agents/skills/<name>/SKILL.md` folder structure.
 
 ---
-*Maintained by Ayan Sohail abbasi.*
+*Maintained by Ayan Sohail Abbasi.*
